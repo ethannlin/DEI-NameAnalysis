@@ -1,0 +1,2 @@
+FLASK_APP = prrc.py
+FLASK_DEBUG = 1
